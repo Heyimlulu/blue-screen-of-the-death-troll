@@ -1,0 +1,9 @@
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\bin\Debug\WIn10BlueScreen.exe.config
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\bin\Debug\WIn10BlueScreen.exe
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\bin\Debug\WIn10BlueScreen.pdb
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\obj\Debug\WIn10BlueScreen.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\obj\Debug\WIn10BlueScreen.Form1.resources
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\obj\Debug\WIn10BlueScreen.Properties.Resources.resources
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\obj\Debug\WIn10BlueScreen.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\obj\Debug\WIn10BlueScreen.exe
+C:\Users\lucas\source\repos\WIn10BlueScreen\WIn10BlueScreen\obj\Debug\WIn10BlueScreen.pdb
